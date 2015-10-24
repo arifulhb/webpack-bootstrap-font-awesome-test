@@ -1,0 +1,41 @@
+{
+  "name": "wbpack-admin-lte-starter-kit",
+  "version": "0.0.1",
+  "description": "Webpack Admin-LTE Starter Kit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack -w"
+  },
+  "keywords": [
+    "Webpack",
+    "Admin-LTE",
+    "Admin",
+    "Panel",
+    "Bootstrap",
+    "Font-awesome"
+  ],
+  "author": "Ariful Haque <arifulhb@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "css-loader": "^0.21.0",
+    "expose-loader": "^0.7.0",
+    "file-loader": "^0.8.4",
+    "style-loader": "^0.13.0",
+    "url-loader": "^0.5.6",
+    "webpack": "^1.12.2"
+  },
+  "dependencies": {
+    "admin-lte": "^2.3.2",
+    "bootstrap": "^3.3.5",
+    "bootstrap-webpack": "0.0.5",
+    "exports-loader": "^0.6.2",
+    "extract-text-webpack-plugin": "^0.8.2",
+    "font-awesome": "^4.4.0",
+    "font-awesome-webpack": "0.0.4",
+    "imports-loader": "^0.6.5",
+    "jquery": "^2.1.4",
+    "less": "^2.5.3",
+    "less-loader": "^2.2.1"
+  }
+}
