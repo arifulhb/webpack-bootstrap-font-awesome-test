@@ -1,21 +1,14 @@
 {
-  "name": "wbpack-admin-lte-starter-kit",
+  "name": "wbpack-bootstrap-fontawesome-test",
   "version": "0.0.1",
-  "description": "Webpack Admin-LTE Starter Kit",
+  "description": ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack -w"
   },
-  "keywords": [
-    "Webpack",
-    "Admin-LTE",
-    "Admin",
-    "Panel",
-    "Bootstrap",
-    "Font-awesome"
-  ],
-  "author": "Ariful Haque <arifulhb@gmail.com>",
+
+  "author": "",
   "license": "MIT",
   "devDependencies": {
     "css-loader": "^0.21.0",
@@ -26,7 +19,6 @@
     "webpack": "^1.12.2"
   },
   "dependencies": {
-    "admin-lte": "^2.3.2",
     "bootstrap": "^3.3.5",
     "bootstrap-webpack": "0.0.5",
     "exports-loader": "^0.6.2",
